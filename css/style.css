@@ -24,14 +24,13 @@ body {
 }
 
 .sidebar {
-  background-color: #1d3ceb;
+  background-color: #99e0dc;
   width: 370px;
   padding-top: 40px;
-  padding-bottom: 40px;
 }
 
 .mein-foto {
-  width: 370px;
+  width: 320px;
 }
 
 .about-me-container {
@@ -51,7 +50,7 @@ body {
   font-size: 22px;
   font-weight: 700px;
   line-height: 24px;
-  color: rgb(201, 200, 245);
+  color: rgb(000, 119, 073);
   margin-bottom: 20px;
 }
 
@@ -59,14 +58,14 @@ body {
   font-size: 14px;
   font-weight: 400px;
   line-height: 24px;
-  color: rgb(233, 240, 236);
+  color: rgb(051, 097, 102);
 }
 
 .contacts-title-klein {
-  font-size: 20px;
-  font-weight: 700px;
+  font-size: 18px;
+  font-weight: 500px;
   line-height: 24px;
-  color: #fff;
+  color: rgb(051, 097, 102);
   margin-right: 10px;
 }
 
@@ -75,7 +74,7 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
-  color: rgb(201, 200, 245);
+  color: rgb(000, 119, 073);
 }
 
 .tech-skills-container {
@@ -89,15 +88,15 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-left: 10px;
-  color: #fd6a09;
+  color: #f0ad00;
 }
 
 .tech-skills-text {
-  color: rgb(248, 242, 242);
+  color: rgb(051, 097, 102);
 }
 
 .beruf {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 23px;
@@ -107,11 +106,13 @@ body {
   font-size: 45px;
   font-weight: 700;
   line-height: 89px;
+  color: #008481;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .description {
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 200;
   line-height: 24px;
   margin-top: 24px;
 }
@@ -157,10 +158,10 @@ body {
 
 .umzug {
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 24px;
-  margin-top: 10px;
-  margin-bottom: 15px;
+  /* margin-top: 5px;
+  margin-bottom: 5px;*/
 }
 
 .profession-title {
@@ -168,11 +169,12 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-top: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 2px;
 }
 
 .profession-company {
-  color: #ff7011;
+  color: #008481;
+  margin-top: 10px;
 }
 
 .profession-time {
@@ -211,9 +213,10 @@ body {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
-  margin-top: 10px;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  color: #ff7011;
+  margin-top: 5px;
+  padding-top: 15px;
+  padding-bottom: 10px;
 }
 
 .info {
